@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [webserv](https://github.com/pbremondFR/webserv)
 
-- 🌱 I’m currently learning **C++, Rust**
+- 🌱 I’m currently learning **C++, Rust, Lua**
 
 - 💬 Ask me about **42, C**
 
