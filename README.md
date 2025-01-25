@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbremondfr&label=Profile%20views&color=0e75b6&style=flat" alt="pbremondfr" /> </p>
 
-- 🌱 I’m currently learning **Rust**
-- ❤ I often work with **C, C++, Rust, Lua, Git, Linux, Visual Studio**
+- 🌱 I’m currently learning **Odin, Rust**
+- ❤ I often work with **C, C++, Dear ImGui, Lua, Git, Linux, Visual Studio**
 - 📄 But I've also used Docker, PostgreSQL, Typescript, NestJS, React, Arduino, Python, Bash, SVN, HTML5/CSS3, KerbalOS...
 - 🔭 I'm interested in embedded programming
 - ✈ I love aviation, which is why my part-time work involves that field!
